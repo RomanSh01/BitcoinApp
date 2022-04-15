@@ -3,3 +3,4 @@ The application shows the current bitcoin price. Currency can be changed using U
 Work with Api. Use URLSession to network and make HTTP requests. Parse JSON with the native Encodable and Decodable protocols.
 
 ![](https://github.com/RomanSh01/BitcoinApp/blob/main/Screenshot.png)
+<img src="https://github.com/RomanSh01/BitcoinApp/blob/main/Screenshot.png" width="500">
